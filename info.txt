@@ -8,3 +8,4 @@ git log
 git remote add origin https://github.com/ank1100010/GitRule.git
 git remote -v
 git push -u origin master
+Done
